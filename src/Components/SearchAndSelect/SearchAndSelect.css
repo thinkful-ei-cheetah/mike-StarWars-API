@@ -1,0 +1,11 @@
+.group-form {
+  margin: 10px 0px;
+}
+
+.button {
+  border-radius: 4px;
+  border: 0;
+  font-size: 15px;
+  padding: 3px;
+  text-align: center;
+}

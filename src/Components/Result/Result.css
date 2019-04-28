@@ -1,0 +1,13 @@
+ul {
+  list-style-type: none;
+}
+
+li {
+  margin: 8px 0px;
+}
+
+li.name {
+  font-weight: bold; 
+  font-size: 150%;
+  margin-top: 20px;
+}
